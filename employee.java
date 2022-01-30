@@ -2,6 +2,8 @@ package com.devi;
 
 import java.util.Scanner;
 
+// to calculate the employee name , id and salary using class and objects.
+
 public class employee {
      String name;
      int id;
