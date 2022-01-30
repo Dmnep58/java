@@ -2,6 +2,8 @@ package com.devi;
 
 import java.util.Scanner;
 
+// to display the details of a students and his or her marks in 5 subjects and his/her percentage using class and object.
+
 public class student {
     int roll,i,n;
     double total,percentage;
