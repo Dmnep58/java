@@ -1,13 +1,11 @@
 package com.devi;  // package name of this project.
 
 
-
+import java.util.Scanner;
 public class Main {
 
 
     public static <s> void main(String[] args) {
-        /*
- write your code her
         Scanner sc =new Scanner(System.in);
 
        // for employee portion or details
@@ -27,9 +25,6 @@ public class Main {
         student obj2 =new student(); //created object for student class
         obj2.data();//called data method
         obj2.display();//called display method
-*/
-
-
 
     }
 }
