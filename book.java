@@ -2,6 +2,8 @@ package com.devi;
 
 import java.util.Scanner;
 
+//WAP to create a book structure having book_isbn, name,publisher,author of the book and member functions getBookInfo() and Display() to get book information and display
+
 public class book {
     String name;
     int book_isbn;
