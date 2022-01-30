@@ -25,6 +25,15 @@ public class Main {
         student obj2 =new student(); //created object for student class
         obj2.data();//called data method
         obj2.display();//called display method
+        
+    // calculation of basic salary , gross salary , da and hra of employee through user input.
+       empdetail[] s=new empdetail[3];
+       for(int i=0;i <= 3;i++)
+       {
+           s[i]=new empdetail();
+           s[i].employee();
+           s[i].display();
+       }
 
     }
 }
